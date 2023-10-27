@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+}
+header{
+    background-color: bisque;
+    color: aliceblue;
+    padding: 10px 0;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: beige;
+}
+main{
+    padding: 20px 0;
+}
+.kera{
+    text-align: center;
+}
+.kera img{
+    width: 100%;
+}
+.products{
+    margin-top: 20px;
+}
+.products h3{
+    text-align: center;
+}
+.products ul{
+    list-style: none;
+    padding: 0;
+}
+.products ul li{
+    display: inline-block;
+    padding: 10xp;
+}
+.products ul li a{
+    color: bisque;
+    text-decoration: none;
+}
+.products ul li a:hover{
+    background-color: beige;
+}
+footer{
+    background-color: bisque;
+    color: aliceblue;
+    padding: 10px 0;
+}
+h1{
+    color: brown;
+}
